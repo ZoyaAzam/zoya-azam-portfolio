@@ -150,12 +150,12 @@ const PROJECTS: Project[] = [
     ext: "live",
     perms: "-rwxr-xr-x",
     size: "2.9K",
-    title: "CarSparePartsDubai.com",
+    title: "MineAutoParts.com — Partner Platform",
     client: "Awamine FZC LLC",
     tags: ["Laravel", "MySQL", "Cart & Checkout"],
     description:
       "Supplier and product-management backend modules built alongside the storefront's cart and checkout logic.",
-    link: "https://carsparepartsdubai.com",
+    link: "https://mineautoparts.com/partner",
     status: "PRODUCTION LIVE",
   },
   {
