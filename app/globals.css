@@ -1,0 +1,4 @@
+
+@import "tailwindcss";
+.font-mono { font-family: var(--font-jetbrains-mono), ui-monospace, monospace; }
+.font-sans { font-family: var(--font-inter), ui-sans-serif, system-ui; }
